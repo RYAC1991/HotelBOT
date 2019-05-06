@@ -1,0 +1,53 @@
+{
+  "HABITACION" : {
+    "DOBLE" : [ null, {
+      "Descripción " : "baño privado, Agua Caliente , Tv por cable y wifi",
+      "Estado" : "Disponible",
+      "NroHabitacion" : 204,
+      "Piso" : "Segundo",
+      "Precio" : "S/ 25.00"
+    } ],
+    "FAMILIAR" : {
+      "Descripcion:" : "sala de juegos, wifi, PS4, 6 Camas 2 plazas, 3 baños, ducha caliente, Cosina  ",
+      "Estado:" : "Disponible",
+      "NroHabitacion" : 206,
+      "Precio" : "S/. 350.00",
+      "piso" : "segundo"
+    },
+    "MATRIMONIAL" : {
+      "\"Descripcion\":" : "\"jacuzzi, wifi, tv cable, ",
+      "Estado:" : "\"Disponible",
+      "NroHabitacion" : 205,
+      "Piso:" : "Segundo",
+      "Premio" : "S/. 250.00"
+    },
+    "SIMPLE" : [ null, {
+      "Descripción" : "baño privado, Agua Caliente , Tv por cable y wifi",
+      "Estado" : "Disponible",
+      "NroHabitacion" : "201",
+      "Piso" : "Segundo",
+      "Precio" : "S/ 35.00"
+    }, {
+      "Descripción" : "baño privado, Tv por cable y wifi",
+      "Estado" : "Ocupado",
+      "NroHabitacion" : "202",
+      "Piso" : "Segundo",
+      "Precio" : "S/ 25.00"
+    }, {
+      "Descripción" : "Baño Compartido , Tv por cable y wifi",
+      "Estado" : "Disponible",
+      "NroHabitacion" : "203",
+      "Piso" : "Segundo",
+      "Precio" : "S/ 20.00"
+    } ]
+  },
+  "Reserva" : [ null, {
+    "Año" : 2019,
+    "DNI" : 74110895,
+    "Dia" : "07",
+    "Estado" : "Disponible",
+    "Habitacion" : 201,
+    "Mes" : "07",
+    "Nombre:" : "Diego Huaychani"
+  } ]
+}
